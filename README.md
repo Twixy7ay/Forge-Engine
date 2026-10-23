@@ -9,7 +9,7 @@ Forge Engine is an experimental `.conf`-driven container CLI using Docker as its
 
 ## Install
 ```bash
-git clone https://github.com/YOUR-USERNAME/forge-engine.git
+git clone https://github.com/Twixy7ay/forge-engine.git
 cd forge-engine
 python3 -m venv .venv
 . .venv/bin/activate
@@ -85,7 +85,7 @@ git init
 git add .
 git commit -m "Initial Forge Engine MVP"
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/forge-engine.git
+git remote add origin https://github.com/Twixy7ay/forge-engine.git
 git push -u origin main
 ```
 Replace `YOUR-USERNAME`. This archive does not create or push a repository to your account automatically.
